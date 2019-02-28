@@ -1,14 +1,68 @@
 /* Acá va tu código */
 div {
     text-align: center;
-    background: 
+    color: white;
+    font-size: 30px;
+    background-color: black;
+    margin: 60px;
+    padding-top: 40px;
+    padding-bottom: 60px;
     
 }
 
-.button {
-    text-align: left;
+#button {
+    color: black;
+    background-color: seagreen;
+    font-size: 30px;
+    border: 5px solid white;
 }
 
 body {
     background: url(secretbank.jpg)
+}
+
+
+h2 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 50px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+textarea {
+    text-align: center;
+    margin: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 8px solid seagreen;
+}
+
+#buttonCipher {
+    text-align: center;
+    background-color: seagreen;
+    font-size: 25px;
+    border: 4px solid white;
+}
+
+#buttonDecipher {
+    text-align: center;
+    background-color: seagreen;
+    font-size: 25px;
+    border: 4px solid white;
+}
+
+#getBack {
+    background-color: seagreen;
+    font-size: 25px;
+    border: 4px solid white;
+}
+
+#offset { 
+    text-align: center;
+    border: 5px solid seagreen;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
