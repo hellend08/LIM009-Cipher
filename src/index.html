@@ -8,47 +8,50 @@
   </head>
 
   <body>
-    <div id="root">
+    <div id="pagOne">
       <h1>"Secret Bank"</h1>
-    
-
-    <h2>
+      <h2>
         Tus ahorros seguros y con la confianza garantizada.
-    </h2>
-    <br>
-    <p>
+      </h2>
+      <br>
+      <p>
       Aquí puedes bloquear con facilidad todas tus cuentas bancarias 
-      <p>en los distintos dispositivos que tengas con solo un 
-       <input type="button" id="button" value="Click"> </p>
-    </p>
+      en los distintos dispositivos que tengas con solo un 
+      </p>
+      <button id="buttonLink">Click</button>
 
     </div>
 
-
-<br>
-  <h2 id="pagTwo">
-    Ingrese clave de bloqueo aquí.
     <br>
-      <input id="offset" type="number" >
-  <br>
-  <br>
 
-  <textarea id="texOne" rows="8" cols="60"></textarea>
-  <br>
-  <button id="buttonCipher">CIFRAR</button>
+    <div id="pagTwo">
+      <h2>
+        Ingrese clave de bloqueo aquí.
+      </h2>
+      <br>
+      <input id="numberOffset" type="number" >
+      <br>
+      <br>
+
+      <input id="inputText" type="text">
+      <br>
+      <br>
+      <button id="buttonCipher">CIFRAR</button>
  
-  <button id="buttonDecipher">DESCIFRAR</button>
-  <br>
-  <textarea class="parrafo" id="texTwo" rows="8" cols="60" ></textarea>
-  <br>
-  <br>
-  <button id="getBack">VOLVER</button>
+      <button id="buttonDecipher">DESCIFRAR</button>
+      <br>
+      <br>
+      <p id="boxAnswerText" type="text"></p>
+      <br>
+      <br>
+      <button id="buttonGetBack">VOLVER</button>
 
-  </h2>
+    </div>
 
-   
+    <script src="index.js"></script>  
+    <script src="cipher.js"></script>
+ 
   </body>
 
-  <script src="cipher.js"></script>
-  <script src="index.js"></script>
+
 </html>
