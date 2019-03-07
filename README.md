@@ -23,7 +23,7 @@ Luego de indicarte algunos detalles sobre el ***Cifrado César***, podrás famil
 
 **Secret Bank** es una página web orientada únicamente para aquellas personas que confían sus ingresos y finanzas a distintas entidades bancarias, donde nuestra principal función es resguardar aquello por lo que trabajaste tanto con solo un ***click***.
 
-Este servicio se creó con el fin de resguardar y proteger tu esfuerzo, como son tu cuenta de ahorros, tarjetas de crédito, cuentas bancarias en general; donde ante cualquier imprevisto como lo es ser víctimas de un robo, hurto e incluso extravío, podrás con solo un ***cick*** bloquear toda información e ingresos anexados a tus cuentas bancarias.
+Este servicio se creó con el fin de resguardar y proteger tu esfuerzo, como son tu cuenta de ahorros, tarjetas de crédito, cuentas bancarias en general; donde ante cualquier imprevisto como lo es ser víctimas de un robo, hurto e incluso extravío, podrás con solo un ***click*** bloquear toda información e ingresos anexados a tus cuentas bancarias.
 
 ![money](https://s03.s3c.es/imag/_v0/770x420/a/d/e/monedas-lupa-doble-fondo.jpg)
 
@@ -33,7 +33,7 @@ Al ingresar a ***Secret Bank*** visualizarás dos métodos de entrada (asociada 
 
 - En la 1ra entrada: Tendrás la opción de generar una clave solo con números, que te ayudarán a definir la segunda clave.
 
-- En la 2da entrada: Podrás definir la clave solo con comandos del abecedario, no incluyendo la letra **Ñ**. Y considerando que el resultado también estará a corde a la entrada 1.
+- En la 2da entrada: Podrás definir la clave solo con comandos del abecedario, sin incluir la letra **Ñ**. Y considerando que el resultado también estará a corde a la entrada 1.
 
 Esta clave secreta, será la que bloqueará tus cuentas bancarias ***de cualquier entidad*** de forma inmediata, por lo tanto se inhabilitará el acceso hasta que lo puedan regularizar llamando a su banco posteriormente e indicando la clave secreta.
 
