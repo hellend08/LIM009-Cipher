@@ -23,8 +23,9 @@ Luego de indicarte algunos detalles sobre el ***Cifrado César***, podrás famil
 
 **Secret Bank** es una página web orientada unicamente para aquellas personas que confían sus ingresos y finanzas a distintas entidades bancarias, donde nuestra principal función es resguardar aquello por lo que trabajaste tanto con solo un click.
 
-Este servicio se creó con el fin de resguardar y proteger tu esfuerzo, como son tu cuenta de ahorros, tarjetas de crédito, cuentas bancarias en general; ![visa](http://www.secretosdebonitas.com/wp-content/uploads/2018/12/credit-300x225.jpg)
-donde ante cualquier imprevisto como lo es ser víctimas de un robo, hurto e incluso extravío, podrás con solo un **cick** bloquear toda información e ingresos anexados a tus cuentas bancarias.
+Este servicio se creó con el fin de resguardar y proteger tu esfuerzo, como son tu cuenta de ahorros, tarjetas de crédito, cuentas bancarias en general; donde ante cualquier imprevisto como lo es ser víctimas de un robo, hurto e incluso extravío, podrás con solo un **cick** bloquear toda información e ingresos anexados a tus cuentas bancarias.
+
+![visa](http://www.secretosdebonitas.com/wp-content/uploads/2018/12/credit-600x600.jpg)
 
 # ¿Cómo lo hago?
 Al ingresar a ***Secret Bank*** visualizarás dos métodos de entrada que te permitirán ingresar datos que solo tú conoces y que sean sencillos de recordar. 
