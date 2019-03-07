@@ -17,7 +17,10 @@ En la actualidad, todos los cifrados de sustitución simple se descifran con muc
 
 # Secret Banck
 
-**Secret Bank** es una página web orientada a resolver las necesidades de las personas que tengan como caracteriística principal, ser usuarios de distintas entidades bancarias. Además una de las cláusulas para poder usar el servicio es que los usuarios sean personas mayores de 18 años y con nacionalidad peruana.
+**Secret Bank** es una página web orientada a resolver las necesidades de las personas que tengan como caracteriística principal, ser usuarios de distintas entidades bancarias. 
+Consideraciones adicionales, apta para personas mayores de 18 años, personas con nacionalidad peruana y dentro de la pea (poblacion economicamnete activa).
+
+Este servicio se creo con el fin de 
 
 
 Secret Bank es el medio donde tendrás la seguridad que tus ahorros y financias se encuetran resguardados ante cualquier eventualidad como robo, hurto o extravio, con tan solo una clave secreta. 

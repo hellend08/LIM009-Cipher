@@ -10,12 +10,10 @@ window.cipher = {
 
     for(let i = 0; i < mayusText.length; i++) {
       ascii = mayusText.charCodeAt(i);
-      ///if( 65 <= ascii <= 90){
-        cipherText = String.fromCharCode((parseInt(ascii) - 65 + parseInt(offsetFinal)) % 26 + 65);
-        
+      cipherText = String.fromCharCode((parseInt(ascii) - 65 + parseInt(offsetFinal)) % 26 + 65);
         //concatCipherText = 
-        concatCipherText += cipherText;     
-      //}
+      concatCipherText += cipherText;     
+    
     } 
     return concatCipherText;
   },
@@ -28,12 +26,9 @@ window.cipher = {
 
     for(let i = 0; i < mayusText.length; i++) {
       ascii = mayusText.charCodeAt(i);
-
-     // if( 65 <= ascii <= 90){
-        decipherText = String.fromCharCode((parseInt(ascii) + 65 - parseInt(offsetFinal)) % 26 + 65);     
+      decipherText = String.fromCharCode((parseInt(ascii) + 65 - parseInt(offsetFinal)) % 26 + 65);     
         //const concatDecipherText = 
-        concatDecipherText += decipherText;
-      //}
+      concatDecipherText += decipherText;
     }
     return concatDecipherText;
   }
