@@ -15,17 +15,30 @@ Por ejemplo, si usamos un desplazamiento (_offset_) de 3 posiciones:
 
 En la actualidad, todos los cifrados de sustitución simple se descifran con mucha facilidad y, aunque en la práctica no ofrecen mucha seguridad en la comunicación por sí mismos; el cifrado César sí puede formar parte de sistemas más complejos de codificación, como el cifrado Vigenère, e incluso tiene aplicación en el sistema ROT13.
 
+Luego de indicarte algunos detalles sobre el ***Cifrado César***, podrás familiarizarte mucho más con el modo de funcionamiento de **Secret Bank**. 
+
 # Secret Banck
 
-**Secret Bank** es una página web orientada a resolver las necesidades de las personas que tengan como caracteriística principal, ser usuarios de distintas entidades bancarias. 
-Consideraciones adicionales, apta para personas mayores de 18 años, personas con nacionalidad peruana y dentro de la pea (poblacion economicamnete activa).
+![Secret-Bank](https://c.files.bbci.co.uk/DAED/production/_98254065_quantum-encryption.jpg)
 
-Este servicio se creo con el fin de 
+**Secret Bank** es una página web orientada unicamente para aquellas personas que confían sus ingresos y finanzas a distintas entidades bancarias, donde nuestra principal función es resguardar aquello por lo que trabajaste tanto con solo un click.
+
+Este servicio se creó con el fin de resguardar y proteger tu esfuerzo, como son tu cuenta de ahorros, tarjetas de crédito, cuentas bancarias en general; donde ante cualquier imprevisto como lo es ser víctimas de un robo, hurto e incluso extravío, podrás con solo un **cick** bloquear toda información e ingresos anexados a tus cuentas bancarias.
+
+**¿Cómo lo hago?**
+Al ingresar a ***Secret Bank*** visualizar dos métodos de entrada que te permitirán ingresar datos que solo tú conoces y que sean sencillos de recordar. 
 
 
-Secret Bank es el medio donde tendrás la seguridad que tus ahorros y financias se encuetran resguardados ante cualquier eventualidad como robo, hurto o extravio, con tan solo una clave secreta. 
+
+
+
+
 Esta clave secreta será la que bloqueará tus cuentas bancarias **de cualquier entidad** de forma inmediata, por lo tanto se inhabilitará el acceso hasta que los usuarios lo puedan regularizar llamando a su banco posteriormente e indicando la clave secreta.
 
+
+Consideraciones adicionales, apta para personas mayores de 18 años, personas con nacionalidad peruana y dentro de la pea (población economicamente activa).
+
+Secret Bank es un servicio gratuito, sin fines de lucro.
 
 #### Definición del producto
 
