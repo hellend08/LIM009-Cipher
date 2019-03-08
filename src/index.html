@@ -1,58 +1,41 @@
 <!DOCTYPE html>
 <html>
-
   <head>
     <meta charset="utf-8">
     <title>Secret Bank</title>
     <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
-
   <body>
-    <div id="pagOne">
-      <h1>"Secret Bank"</h1>
-      <h2>
-        Tus ahorros seguros y con la confianza garantizada.
-      </h2>
-      <br>
-      <p>
-      Aquí puedes bloquear con facilidad todas tus cuentas bancarias 
-      en los distintos dispositivos que tengas con solo un 
-      </p>
-      <button id="buttonLink">Click</button>
-
-    </div>
-
-    <br>
-
-    <div id="pagTwo">
-      <h3>
-        Ingrese clave de bloqueo aquí:
-      </h3>
-      <input id="numberOffset" type="number" >
-      <br>
-      <br>
-      <h3>Tu palabra secreta va aquí:</h3>
-      <input id="inputText" size="50" type="text">
-      <br>
-      <br>
-      <button id="buttonCipher">CIFRAR</button>
- 
-      <button id="buttonDecipher">DESCIFRAR</button>
-      <br>
-      <br>
-      <h3>Este es tu resultado:</h3>
-      <p id="boxAnswerText" type="text"></p>
-      <br>
-      <h3>¡Recuerda no confiar tu resultado a nadie!</h3>
-      <br>
-      <button id="buttonGetBack">VOLVER</button>
-
-    </div>
-
+    <main>
+      <section id="presentation">
+        <h1>"Secret Bank"</h1>
+        <h2>Tus ahorros seguros y con la confianza garantizada.</h2>
+        <br>
+        <p>Aquí puedes bloquear con facilidad todas tus cuentas bancarias en los distintos dispositivos que tengas con solo un </p>
+        <button id="button-link">Click</button>
+      </section>
+      <section id="encode-decode">
+        <h3>Ingrese clave de bloqueo aquí:</h3>
+        <input id="number-offset" type="number" >
+        <br>
+        <br>
+        <h3>Tu palabra secreta va aquí:</h3>
+        <input id="input-text" size="50" type="text">
+        <br>
+        <br>
+        <button id="button-cipher" class="button" >CIFRAR</button>
+        <button id="button-decipher" class="button">DESCIFRAR</button>
+        <br>
+        <br>
+        <h3>Este es tu resultado:</h3>
+        <p id="box-answer-text" type="text"></p>
+        <br>
+        <h3>¡Recuerda no confiar tu resultado a nadie!</h3>
+        <br>
+        <button id="button-get-back">VOLVER</button>
+      </section>
+    </main>
     <script src="index.js"></script>  
     <script src="cipher.js"></script>
- 
   </body>
-
-
 </html>
