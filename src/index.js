@@ -17,18 +17,18 @@ buttonLink.addEventListener("click", function(){
 
 buttonGetBack.addEventListener("click", function(){
     pagOne.style.display = "block";
-    pagTwo.style.display = "none";   
+    pagTwo.style.display = "none";
+    window.location.reload();
 });
 
 buttonCipher.addEventListener("click", function(){
-    const mayusText = (inputText.value).toUpperCase(); 
+    const mayusText = (inputText.value).toUpperCase();
     const offsetFinal = numberOffset.value;
     boxAnswerText.innerHTML = cipher.encode(mayusText, offsetFinal);
 });
 
 buttonDecipher.addEventListener("click", function(){
-    const mayusText = (inputText.value).toUpperCase(); 
+    const mayusText = (inputText.value).toUpperCase();
     const offsetFinal = numberOffset.value;
     boxAnswerText.innerHTML = cipher.decode(mayusText, offsetFinal);
 });
-
